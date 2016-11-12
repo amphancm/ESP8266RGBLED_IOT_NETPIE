@@ -1,4 +1,4 @@
-# ESP8266RGBLED_IOT_NETPIE
+# ESP8266 RGBLED IOT NETPIE
 This project we use ESP8266 WiFi Module to control RGB LED via WiFi Network.  
 Hardware 
 1.ESP8266 WiFi Module ( or NodeMCU ) 
